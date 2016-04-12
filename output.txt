@@ -1,0 +1,2 @@
+log1.txt - log1.txt:  finding2  ->  finding 
+log2.txt - log1.txt:  finding  ->  finding2 
